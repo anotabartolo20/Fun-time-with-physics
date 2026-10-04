@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Slingshot & Gravity Assist Lab",
+  "description": "Interactive physics simulation of spacecraft gravitational assist maneuvers with real-time kinematic graphing, dual reference frames, and trial comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
